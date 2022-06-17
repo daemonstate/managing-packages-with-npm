@@ -1,6 +1,7 @@
 {
 	"author": "Aslan Sabyrov",
 	"description": "This is a description",
+	"keywords": ["freecodecamp", "nodejs", "description-author"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
