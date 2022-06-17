@@ -3,6 +3,7 @@
 	"description": "This is a description",
 	"keywords": ["freecodecamp", "nodejs", "description-author"],
 	"license": "MIT",
+	"version": "1.2.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
